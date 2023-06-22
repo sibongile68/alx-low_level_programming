@@ -7,10 +7,9 @@
 
 int main(void)
 {
-        int i;
+^I^I^I^Iint i;
 
-        i = 98;
-        positive_or_negative(i);
-
-        return (0);
+I^I^I^I = 98;
+^I^I^I^Ipositive_or_negative(i);
+^I^Ireturn (0);
 }
