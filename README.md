@@ -1,1 +1,1 @@
-This project has 10 mandatory tasks and 3 Advanced Tasks
+0x0B. C - malloc, free
